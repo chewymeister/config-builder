@@ -1,0 +1,14 @@
+---
+properties:
+  only_in_template: "true"
+  override_with_stub: "false"
+  do_not_edit:
+    only_in_template: "true"
+  do_edit:
+    override_with_stub: "false"
+  one:
+    two:
+      three:
+        override_with_stub: "false"
+        four:
+          only_in_template: "true"

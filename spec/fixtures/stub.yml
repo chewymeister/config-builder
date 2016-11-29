@@ -1,0 +1,17 @@
+---
+properties:
+  only_in_stub: "true"
+  override_with_stub: "true"
+  blank:
+  do_not_edit:
+    only_in_stub: "true"
+  nested_stub:
+    only_in_stub: "true"
+  do_edit:
+    override_with_stub: "true"
+  one:
+    two:
+      three:
+        override_with_stub: "true"
+        four:
+          only_in_stub: "true"
